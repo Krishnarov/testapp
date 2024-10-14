@@ -2,7 +2,7 @@
 This is my first react project
 npm create vite@latest testapp
 >react
->javas
+>javascript
 
   cd testapp
   npm install
